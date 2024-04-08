@@ -1,0 +1,19 @@
+ID, Nome, Quantidade, Categoria, Price
+001, Arroz, 50, Alimentos não perecíveis, 3.50
+002, Feijão, 40, Alimentos não perecíveis, 4.00
+003, Macarrão, 60, Alimentos não perecíveis, 2.00
+004, Leite, 30, Laticínios, 10.00
+005, Queijo, 2, Laticínios, 2.00
+006, Frango, 15, Carnes, 15.00
+007, Carne Moída, 25, Carnes, 25.00
+008, Peixe Congelado, 1, Peixes e Frutos do Mar, 30.00
+009, Maça, 35, Frutas, 3.50
+010, Banana, 20, Frutas, 2.00
+011, Alface, 10, Vegetais, 5.00
+012, Pão de Forma, 3, Padaria, 3.00
+013, Bolacha, 20, Padaria, 4.00
+014, Suco de Laranja, 30, Bebidas, 15.00
+015, Refrigerante, 15, Bebidas, 50.00
+016, Chocolate, 15, Doces e Sobremesas, 17.00
+017, Sabonete, 10, Higiene Pessoal, 7.00
+018, Papel Higiênico, 10, Higiene Pessoal, 9.00
